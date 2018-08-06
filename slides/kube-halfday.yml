@@ -45,6 +45,7 @@ chapters:
   #- kube/logs-centralized.md
   - kube/helm.md
   - kube/namespaces.md
+  #- kube/netpol.md
   - kube/whatsnext.md
 #  - kube/links.md
 # Bridget-specific

@@ -38,10 +38,11 @@ chapters:
 - - kube/kubectlscale.md
   - kube/daemonset.md
   - kube/rollout.md
-  #- kube/logs-cli.md
-  #- kube/logs-centralized.md
-  #- kube/helm.md
-  #- kube/namespaces.md
+  - kube/logs-cli.md
+  - kube/logs-centralized.md
+  - kube/helm.md
+  - kube/namespaces.md
+  - kube/netpol.md
   - kube/whatsnext.md
   - kube/links.md
   - common/thankyou.md
